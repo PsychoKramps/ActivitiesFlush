@@ -1,0 +1,14 @@
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\bin\Debug\net8.0\Infraestructure.deps.json
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\bin\Debug\net8.0\Infraestructure.runtimeconfig.json
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\obj\Debug\net8.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfo.cs
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\obj\Debug\net8.0\Infraestructure.dll
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\obj\Debug\net8.0\refint\Infraestructure.dll
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\obj\Debug\net8.0\Infraestructure.pdb
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\obj\Debug\net8.0\Infraestructure.genruntimeconfig.cache
+C:\Users\PsychoK\Desktop\ActivitiesFlush\Infraestructure\obj\Debug\net8.0\ref\Infraestructure.dll

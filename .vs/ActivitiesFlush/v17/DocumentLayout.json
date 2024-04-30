@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC472A85-AC6E-43B7-AA4B-3A628BCA07ED}|Domain\\Domain.csproj|C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC472A85-AC6E-43B7-AA4B-3A628BCA07ED}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD1F2F5-B930-4A30-858B-A60A31C7F714}|ActivitiesFlush\\ActivitiesFlush.csproj|c:\\users\\psychok\\desktop\\activitiesflush\\activitiesflush\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD1F2F5-B930-4A30-858B-A60A31C7F714}|ActivitiesFlush\\ActivitiesFlush.csproj|solutionrelative:activitiesflush\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|c:\\users\\psychok\\desktop\\activitiesflush\\infraestructure\\models\\activitiesflushcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\models\\activitiesflushcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|c:\\users\\psychok\\desktop\\activitiesflush\\infraestructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|c:\\users\\psychok\\desktop\\activitiesflush\\infraestructure\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|c:\\users\\psychok\\desktop\\activitiesflush\\infraestructure\\models\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\models\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD1F2F5-B930-4A30-858B-A60A31C7F714}|ActivitiesFlush\\ActivitiesFlush.csproj|C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\activitiesflush\\activitiesflush.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DD1F2F5-B930-4A30-858B-A60A31C7F714}|ActivitiesFlush\\ActivitiesFlush.csproj|solutionrelative:activitiesflush\\activitiesflush.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD1F2F5-B930-4A30-858B-A60A31C7F714}|ActivitiesFlush\\ActivitiesFlush.csproj|C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\activitiesflush\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DD1F2F5-B930-4A30-858B-A60A31C7F714}|ActivitiesFlush\\ActivitiesFlush.csproj|solutionrelative:activitiesflush\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD1F2F5-B930-4A30-858B-A60A31C7F714}|ActivitiesFlush\\ActivitiesFlush.csproj|C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\activitiesflush\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD1F2F5-B930-4A30-858B-A60A31C7F714}|ActivitiesFlush\\ActivitiesFlush.csproj|solutionrelative:activitiesflush\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC472A85-AC6E-43B7-AA4B-3A628BCA07ED}|Domain\\Domain.csproj|C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC472A85-AC6E-43B7-AA4B-3A628BCA07ED}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\infraestructure\\infraestructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\infraestructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AAAC14-A936-4CA1-ADBC-B6DC7683852E}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\ActivitiesFlush\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ActivitiesFlush\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\ActivitiesFlush\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ActivitiesFlush\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:52:17.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Models\\User.cs",
+              "RelativeToolTip": "Infraestructure\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:50:03.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Models\\Task.cs",
+              "RelativeToolTip": "Infraestructure\\Models\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:50:02.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Date.cs",
+              "DocumentMoniker": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Models\\Date.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Models\\Date.cs",
+              "ToolTip": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Models\\Date.cs",
+              "RelativeToolTip": "Infraestructure\\Models\\Date.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:49:58.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActivitiesFlushContext.cs",
+              "DocumentMoniker": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Models\\ActivitiesFlushContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Models\\ActivitiesFlushContext.cs",
+              "ToolTip": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Models\\ActivitiesFlushContext.cs",
+              "RelativeToolTip": "Infraestructure\\Models\\ActivitiesFlushContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwBUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:18:34.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T01:51:42.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Infraestructure",
+              "DocumentMoniker": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Infraestructure.csproj",
+              "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Infraestructure.csproj",
+              "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T01:49:08.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActivitiesFlush.csproj",
+              "DocumentMoniker": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\ActivitiesFlush\\ActivitiesFlush.csproj",
+              "RelativeDocumentMoniker": "ActivitiesFlush\\ActivitiesFlush.csproj",
+              "ToolTip": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\ActivitiesFlush\\ActivitiesFlush.csproj",
+              "RelativeToolTip": "ActivitiesFlush\\ActivitiesFlush.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T01:47:35.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Infraestructure.csproj",
+              "DocumentMoniker": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Infraestructure.csproj",
+              "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Infraestructure.csproj",
+              "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T01:08:38.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\ActivitiesFlush\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ActivitiesFlush\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\ActivitiesFlush\\appsettings.Development.json",
+              "RelativeToolTip": "ActivitiesFlush\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-05T01:11:54.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T00:56:10.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\ActivitiesFlush\\Program.cs",
+              "RelativeDocumentMoniker": "ActivitiesFlush\\Program.cs",
+              "ToolTip": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\ActivitiesFlush\\Program.cs",
+              "RelativeToolTip": "ActivitiesFlush\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T01:56:14.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\PsychoK\\Desktop\\ActivitiesFlush\\Infraestructure\\Class1.cs",
+              "RelativeToolTip": "Infraestructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T00:55:24.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
